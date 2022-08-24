@@ -1,4 +1,8 @@
-### Hi there 👋 
+### Hi there 👋
+
+- 🔭 I’m currently working on Computational neuroscience
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasoncc2020&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Badge](https://img.shields.io/github/followers/jasoncc2020?style=for-the-badge)](https://github.com/jasoncc2020)
 [![CV Badge](https://img.shields.io/badge/My-CV-brightgreen?style=for-the-badge)](https://canchengli.com/files/cv.pdf)
@@ -13,12 +17,4 @@
 - :wink::mortar_board: **I am a second-year PhD student in Beihang University**！
 
 
-### Hi there 👋
 
-- 📫 email me at: canchengli@buaa.edu.cn  
-
-- 🔭 I’m currently working on Computational neuroscience
-
-- 🌱 To view videos I made about my research and the courses I tought: https://space.bilibili.com/64952151?spm_id_from=333.1007.0.0
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasoncc2020&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
