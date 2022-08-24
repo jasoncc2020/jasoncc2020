@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Cancheng Li :cn: !
 
-- ** 🔭 :wink::mortar_board:  I’m a second-year PhD student in Beihang University, currently working on Computational neuroscience！**
+-  🔭 :wink::mortar_board: ** I’m a second-year PhD student in Beihang University, currently working on Computational neuroscience**！
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasoncc2020&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
